@@ -1,0 +1,30 @@
+Feature,Importance
+num_passengers,0.04491264725614171
+sales_channel,0.004322041525982403
+trip_type,0.0012562436608380104
+purchase_lead,0.16083502324049714
+length_of_stay,0.12007160031761577
+flight_hour,0.12037912160555206
+flight_day,0.07924842683562898
+route,0.13979931559714312
+booking_origin,0.07347580196861617
+wants_extra_baggage,0.017601113925014084
+wants_preferred_seat,0.017700470487341406
+wants_in_flight_meals,0.020413966024665237
+flight_duration,0.07411514488805238
+booking_origin_Africa,4.0640350276888065e-05
+booking_origin_East Asia,0.012060566928662588
+booking_origin_Europe,0.0018903264792773892
+booking_origin_Middle East,0.0007055869012988279
+booking_origin_Nordic,0.0002927433518703537
+booking_origin_North America,0.0015918787133872357
+booking_origin_Oceania,0.03340845524628052
+booking_origin_South America,0.00011530267047234168
+booking_origin_South Asia,0.0036957202471940205
+booking_origin_South East Asia,0.060733924864867346
+booking_origin_Unknown,3.690158824737311e-05
+sales_channel_Internet,0.004234680851195859
+sales_channel_Mobile,0.004431047330218946
+trip_type_CircleTrip,0.0002837359431953557
+trip_type_OneWay,0.0010081271922050734
+trip_type_RoundTrip,0.0013394440082615893
